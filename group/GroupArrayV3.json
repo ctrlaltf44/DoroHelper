@@ -1,5 +1,115 @@
 [
   {
+    "hash": "efa147f2cdfb2a1a5666e616115e6cd778ca10ebef6c2b22e315d03facdd0201",
+    "tier": "金Doro会员",
+    "expiry_date": "20251208"
+  },
+  {
+    "hash": "d0abbebc984f7acd55325536a5df5d414f356dbad757e849fc7e4a419b203749",
+    "tier": "金Doro会员",
+    "expiry_date": "20251208"
+  },
+  {
+    "hash": "a30659c8c0db05e02e328a23482132b127b867f9f25f7b8f948a86517e900de9",
+    "tier": "金Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "52aa5c44e4054602ba27544966cce547fcb05a10f3a350a98eed107a6a0118dc",
+    "tier": "金Doro会员",
+    "expiry_date": "20251208"
+  },
+  {
+    "hash": "e141e7fec3efdf3deb0426abae790131be179455f5326ceb11a94ed3ed4d2a8e",
+    "tier": "银Doro会员",
+    "expiry_date": "20251208"
+  },
+  {
+    "hash": "0f60ff6a334d9184832e4b2b0950afd123c0674e41d14f1755dd557b2656bfce",
+    "tier": "金Doro会员",
+    "expiry_date": "20251208"
+  },
+  {
+    "hash": "d2bf09036213c989b00e320bb9e3c8108e0530c30d19fe55daa290550057174c",
+    "tier": "金Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "eb3b3df7b3af717bc4f6a06623da7e81381f3ead863d16c13996090d50f40526",
+    "tier": "金Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "d9a234e92b7b872361bacc5fbd553bfae13d78b1643e48ae03ce9a55dd06f43b",
+    "tier": "银Doro会员",
+    "expiry_date": "20260205"
+  },
+  {
+    "hash": "437e33178548f9d59739a15786a07e99bb190e80956c4af9a90610299d6d7061",
+    "tier": "金Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "8f91946428552b77494cadb5ab2c4977d734c8be150f85f73d6d213193a27b79",
+    "tier": "银Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "18bf14daaebe6fc709ddc24ecd6e0cc662604e744585bea215f08cb5bea1c401",
+    "tier": "金Doro会员",
+    "expiry_date": "20251206"
+  },
+  {
+    "hash": "956fa9f7887bc2ef89bdf1211a043540ec0688ff899ed3298b903470d588d8be",
+    "tier": "金Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "7ef6c77325cbc29025da5f626f1f340848d21b35981282259849530d30a73bb9",
+    "tier": "银Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "2c273e68bdfcf9d883f9e15e56ffc32c117b46f76816424a19e7688395fa2183",
+    "tier": "金Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "fee5ff89b272454d25ace0f3423f1e09fec0d4ea9adb53da214ef7bce30c8542",
+    "tier": "金Doro会员",
+    "expiry_date": "20251206"
+  },
+  {
+    "hash": "51724fa676d11e33b75ce94411e6722b38601d9989322e4093345fb1e8143c92",
+    "tier": "金Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "addac2cc6c8898d5fff383d5db5f0d68c8750d7237d87cfd10b7cd1d4f33c48c",
+    "tier": "金Doro会员",
+    "expiry_date": "20251207"
+  },
+  {
+    "hash": "125d0a3511f5dc5bf7c33a901eaae1756af3549f1b0c28690c321634a3960a61",
+    "tier": "金Doro会员",
+    "expiry_date": "20251206"
+  },
+  {
+    "hash": "cff0203145c5e5929c4af662a5ffc81992b39b6d8033fe1b062191d34907a34d",
+    "tier": "金Doro会员",
+    "expiry_date": "20261108"
+  },
+  {
+    "hash": "c44689752ce31c0cf1f732e5f93dfe395a536dc218051a581abf7013af65b928",
+    "tier": "金Doro会员",
+    "expiry_date": "20251206"
+  },
+  {
+    "hash": "e30e59f580d8feabf30af96d3a42d3e56f89aa79e75a59fad77fe9c6855c6411",
+    "tier": "金Doro会员",
+    "expiry_date": "20251206"
+  },
+  {
     "hash": "4ef65a5ccc451b21beeb127dc0c717f2fa2b471f341a4051b38410d0ac1a8061",
     "tier": "金Doro会员",
     "expiry_date": "20251206"
@@ -751,8 +861,8 @@
   },
   {
     "hash": "47c0bb1e8225c3bf2bf525fc58ae84d9e63e42ebc0fee7eb82640bccff9acb10",
-    "tier": "银Doro会员",
-    "expiry_date": "20251231"
+    "tier": "金Doro会员",
+    "expiry_date": "20260206"
   },
   {
     "hash": "448787cf9ab3969ab2b74a786066bb1876b583ca78a38dcb5052e5557029fc2f",
