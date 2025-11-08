@@ -3181,6 +3181,7 @@ UpdateSponsorPrice(userGroupInfo_param := unset) { ; <-- 接受 userGroupInfo �
 CalculateSponsorInfo(thisGuiButton, info) {
     global guiTier, guiDuration, guiSponsor
     global g_MembershipLevels, g_PriceMap, LocaleName
+    MsgBox("需要按ctrl+v将信息粘贴，而不是将以下内容截图", "提示")
     mainBoardSerial := GetMainBoardSerial()
     cpuSerial := GetCpuSerial()
     diskSerial := GetDiskSerial()
