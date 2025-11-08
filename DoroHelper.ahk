@@ -5147,9 +5147,6 @@ InterceptionNormal() {
         if g_settings["InterceptionExit7"] and g_numeric_settings["UserLevel"] >= 3
             modes.Push("Exit7")
         global BattleActive := 1
-        if g_settings["InterceptionRedCircle"] or g_settings["InterceptionExit7"] {
-            AddLog("有概率误判，请谨慎开启该功能", "MAROON")
-        }
         BattleSettlement(modes*)
         Sleep 2000
     }
@@ -5273,9 +5270,6 @@ InterceptionAnomaly() {
         if g_settings["InterceptionExit7"] and g_numeric_settings["UserLevel"] >= 3
             modes.Push("Exit7")
         global BattleActive := 1
-        if g_settings["InterceptionRedCircle"] or g_settings["InterceptionExit7"] {
-            AddLog("有概率误判，请谨慎开启该功能", "MAROON")
-        }
         BattleSettlement(modes*)
         Sleep 2000
     }
